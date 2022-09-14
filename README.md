@@ -35,7 +35,7 @@ Este producto es una placa de soporte o una placa de arranque para el controlado
 + Desconexión térmica, bloqueo de bajo voltaje y protección contra cortocircuitos y carga en cortocircuito.
 + El control de corriente ajustable le permite configurar la salida de corriente máxima con un potenciómetro, que le permiten usar voltajes por encima del voltaje nominal de su motor paso a paso para lograr tasas de pasos más altas.
 
-[url=https://postimg.cc/jLz7nzjH][img]https://i.postimg.cc/jLz7nzjH/esq2.jpg[/img][/url]
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Njr7wXQf/esq1.jpg" alt="esq1"/></a><br/><br/>
 
 Fig. 2 Esquema del driver A4988
 
