@@ -34,7 +34,7 @@ Este producto es una placa de soporte o una placa de arranque para el controlado
 + Control de corte inteligente que selecciona automáticamente el modo correcto de caída de corriente (decaimiento rápido o decaimiento lento).
 + Desconexión térmica, bloqueo de bajo voltaje y protección contra cortocircuitos y carga en cortocircuito.
 + El control de corriente ajustable le permite configurar la salida de corriente máxima con un potenciómetro, que le permiten usar voltajes por encima del voltaje nominal de su motor paso a paso para lograr tasas de pasos más altas.
-
+https://postimg.cc/gallery/dL521Jv
 [url=https://postimg.cc/jDtJHLWG][img]https://i.postimg.cc/jDtJHLWG/esq1.jpg[/img][/url]
 Fig. 2 Esquema del driver A4988
 
