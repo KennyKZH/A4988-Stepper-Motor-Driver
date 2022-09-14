@@ -1,5 +1,4 @@
-# A4988-Stepper-Motor-Driver
-
+[![cooltext419192617345793-1.png](https://i.postimg.cc/0NRFwmnb/cooltext419192617345793-1.png)](https://postimg.cc/68cMs8DX)
  
 TECNOLÓGICO NACIONAL DE MÉXICO
 INSTITUTO TECNOLÓGICO DE TIJUANA
