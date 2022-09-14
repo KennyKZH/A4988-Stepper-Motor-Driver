@@ -35,7 +35,7 @@ Este producto es una placa de soporte o una placa de arranque para el controlado
 + Desconexión térmica, bloqueo de bajo voltaje y protección contra cortocircuitos y carga en cortocircuito.
 + El control de corriente ajustable le permite configurar la salida de corriente máxima con un potenciómetro, que le permiten usar voltajes por encima del voltaje nominal de su motor paso a paso para lograr tasas de pasos más altas.
 
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Njr7wXQf/esq1.jpg" alt="esq1"/></a><br/><br/>
+[url=https://postimg.cc/jLz7nzjH][img]https://i.postimg.cc/jLz7nzjH/esq2.jpg[/img][/url]
 
 Fig. 2 Esquema del driver A4988
 
@@ -46,12 +46,13 @@ Tamaño de microespacio: Los motores paso a paso suelen tener una especificació
 
 Numero de pasos: Las entradas del selector de pasos (MS1, MS2 y MS3) permiten seleccionar de la resolución de uno de 5 pasos de acuerdo con la tabla siguiente. MS1 y MS3 tienen resistencias internas de 100kΩ y MS2 tiene una resistencia interna de 50kΩ, de manera que dejando estos tres pines de selección de microstep desconectados se obtiene el modo de paso completo. Para que los modos microstep funcionen correctamente, el límite de corriente debe establecerse lo suficientemente bajo para que la limitación de corriente se active. Si no es así, los niveles de corriente intermedios no se mantendrán correctamente, y el motor se saltará los pasos intermedios.
 
-[url=https://postimg.cc/jLz7nzjH][img]https://i.postimg.cc/jLz7nzjH/esq2.jpg[/img][/url]
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/ZKQFgHtM/esq2.jpg" alt="esq2"/></a><br/><br/>
+
 Fig. 3 Tabla microsteps.
 
 Entradas de control: Cada pulso a la entrada STEP corresponde a un microstep del motor paso a paso en la dirección seleccionada por el pin DIR. Tenga en cuenta que los pines STEP y DIR no están conectados a un voltaje en particular internamente, por lo que no debe dejar ninguno de estos pines flotando en su aplicación. Si solo desea girar en una sola dirección, puede unir DIR directamente a VCC o GND. El chip tiene tres entradas diferentes para controlar sus muchos estados de energía: RST, SLP y EN. Tenga en cuenta que el pin RST está flotando; si no está utilizando el pin, puede conectarlo al pin SLP adyacente en el PCB para subirlo y habilitar el tablero.
 
-[url=https://postimg.cc/svFW2n3f][img]https://i.postimg.cc/svFW2n3f/esq3.jpg[/img][/url]
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/J405PggX/esq3.jpg" alt="esq3"/></a><br/><br/>
 
 Fig. 4 Esquema práctico general.
 
