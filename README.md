@@ -19,8 +19,6 @@ RENE SOLIS REYES
 ALUMNO (A):
 ZHENG HU KENNY #19210561
 
-![image](https://user-images.githubusercontent.com/60447970/217959370-223519e1-e2e5-4707-9518-76eed3351a0f.png)
-
 
 TIJUANA B.C. A 12 DE SEPTIEMBRE DE 2022
 
